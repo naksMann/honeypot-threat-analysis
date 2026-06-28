@@ -13,13 +13,13 @@ What this project captures
 
 The honeypot was deployed in a controlled lab and left exposed to incoming connections. From the activity it recorded, the project documents:
 
--Connection attempts and where they came from.
+- Connection attempts and where they came from.
 
--Login attempts, including the usernames and passwords attackers tried.
+- Login attempts, including the usernames and passwords attackers tried.
 
--Commands run once a session was established.
+- Commands run once a session was established.
 
--Patterns in attacker behaviour, mapped to common tactics and techniques.
+- Patterns in attacker behaviour, mapped to common tactics and techniques.
 
 Why it matters
 =
